@@ -1,6 +1,6 @@
 # 🧠 Text Extractor using Deep Learning
 
-This project is a **Flask-based web application** that performs **text extraction from images** using a **pre-trained deep learning model** (`trained_model_13_3.h5`).  
+This project is a **Flask-based web application** that performs **text extraction from images** using a **pre-trained deep learning model** .  
 It leverages **OpenCV** for image preprocessing and **TensorFlow/Keras** for model inference.
 
 ---
