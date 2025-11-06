@@ -28,10 +28,12 @@ It leverages **OpenCV** for image preprocessing and **TensorFlow/Keras** for mod
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the Repository
+### 1️Clone the Repository
 git clone https://github.com/ankurmishra48/TextExtractor.git
 cd TextExtractor
-2️⃣ Install Required Packages
+
+
+##Install Required Packages
 Run the following commands one by one to install all necessary dependencies:
 pip install flask
 pip install opencv-python
@@ -41,6 +43,5 @@ pip install protobuf==3.20.3
  
 
 
-4️⃣ Run the Application
-
+###Run the Application
 python app.py
